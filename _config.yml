@@ -9,12 +9,12 @@ relative_permalinks: false
 # Setup
 title:            Chandana Velaga
 tagline:          'Resume'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '<a href="https://www.linkedin.com/in/chandana-velaga-bb17b6102/" target="_blank">@ linkedin</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Chandana Velaga'
   url:            https://twitter.com/mdo
 
 paginate:         5
