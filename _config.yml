@@ -9,8 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Chandana Velaga
 tagline:          'Resume'
-description:      'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br>
- Connect @ <a href="https://www.linkedin.com/in/chandana-velaga-bb17b6102/" target="_blank">linkedin</a>'
+description:      'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br>Connect @ <a href="https://www.linkedin.com/in/chandana-velaga-bb17b6102/" target="_blank">linkedin</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
