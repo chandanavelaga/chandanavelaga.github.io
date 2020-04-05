@@ -232,9 +232,6 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
-  max-height: 350px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* Tables */
@@ -262,14 +259,10 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 300;
 }
 
-.photo {
-  height: auto;
-  width: auto;
-}
 
 /*
  * Messages
