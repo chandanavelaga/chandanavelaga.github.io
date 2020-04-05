@@ -1,7 +1,8 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Pretty Shining People
 ---
+
 
 Me and Sam in the car, talking 'bout America
 Heading to the wishing well, we've reached our last resort
