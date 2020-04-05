@@ -3,28 +3,52 @@ layout: page
 title: about
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Chandana Velaga
+======
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+#### 'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br>Connect @ <a href="https://www.linkedin.com/in/chandana-velaga-bb17b6102/" target="_blank">linkedin</a>' with a strong background in math, science and programming. 
+###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Education
+---------
+**Ph.D. program in Applied Physics, Yale University** (2012-present)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- Research on transport in metal nanostructures. 
+- Coursework in physics, engineering, and statistics.
 
-## Setup
+**B.S. in Physics, Indiana University** (2008-2011)
 
-Some fun facts about the setup of this project include:
+- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+**MOOCs** (ongoing)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+- Machine Learning (Stanford, Andrew Ng)
 
-Thanks for reading!
+Experience
+---------
+**Independent Researcher, Yale University** (2012-present, New Haven CT)
+
+- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+
+**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+
+- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+
+Skills
+------
+**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+
+**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+
+Awards
+------
+- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
+- **IU Founders Scholar**, Indiana University (2012)
+- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+
+Projects
+--------
+**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+
+- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
