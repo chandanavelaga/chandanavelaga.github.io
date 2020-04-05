@@ -3,18 +3,21 @@ layout: page
 title: articles
 ---
 
-<div class="related">
-<ul class="related-posts">
-{% for post in site.posts %}
+{% for category in site.tags %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
       <li>
         <h3>
-          <a href="{{ post.url }}"> {{ post.title }}
+          <a href="{{ post.url }}">{{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
+          <div class="message">
+            {{ post.excerpt }}
+          </div>
         </h3>
       </li>
-{% endfor %}
+    {% endfor %}
   </ul>
-</div>
-
+{% endfor %}
   
