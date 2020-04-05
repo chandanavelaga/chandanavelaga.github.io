@@ -2,7 +2,6 @@
 layout: post
 title: Pretty Shining People
 tags: [songs, fun, chill, serious]
-categories: [blog, travel]
 ---
 
 <p>

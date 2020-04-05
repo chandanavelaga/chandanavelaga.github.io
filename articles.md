@@ -4,7 +4,7 @@ title: articles
 ---
 
 {% for category in site.tags %}
-  <h3>{{ category[0] }}</h3>
+  <h3><a name="{{ category[0] }}">{{ category[0] }} </a></h3>
   <ul>
     {% for post in category[1] %}
       <li>
@@ -12,12 +12,24 @@ title: articles
           <a href="{{ post.url }}">{{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
-          <div class="message">
-            {{ post.excerpt }}
-          </div>
         </h3>
       </li>
     {% endfor %}
   </ul>
 {% endfor %}
+
+
+<div class="related">
+<ul class="related-posts">
+{% for post in site.posts %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}"> {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+{% endfor %}
+  </ul>
+</div>
   

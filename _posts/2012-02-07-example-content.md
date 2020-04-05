@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-tags: songs fun chill serious
+tags: [fun, mba]
 ---
 
 
