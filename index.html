@@ -3,7 +3,25 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+{% for node in site.pages %}
+  {% if node.title == "about" %}
+    {% if node.layout == "page" %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ post.url }}">
+            {{ node.title }}
+          </a>
+        </h1>
+    
+        <span class="post-date">{{ node.date | date_to_string }}</span>
+    
+        {{ node.content }}
+      </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -17,8 +35,10 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> -->
 
+
+<!-- 
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
@@ -34,4 +54,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
