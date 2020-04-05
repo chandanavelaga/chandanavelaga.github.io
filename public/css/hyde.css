@@ -248,3 +248,15 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+img.emoji {
+  display: inline-block;
+  left: 0;
+  transform: none;
+  width: 20px;
+  height: 20px;
+  vertical-align: text-top;
+  padding: 0;
+  margin: 0;
+}
