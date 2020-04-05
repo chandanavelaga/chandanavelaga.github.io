@@ -166,6 +166,18 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.sidebar img{
+  height: auto;
+  max-width: 100%;
+
+  display: block;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 
 
 /*
@@ -293,13 +305,10 @@ img.emoji {
   }
 }
 
-
 .display_picture{
-  display: block;
-  max-width: 100%;
-  /* margin: 0 0 1rem; */
-  border-radius: 5px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
+
+}
+
+.anchors{
+  color: black;
 }
