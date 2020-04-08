@@ -305,10 +305,25 @@ img.emoji {
   }
 }
 
-.display_picture{
-
-}
-
 .anchors{
   color: black;
 }
+
+.img--circle {
+  border-radius: 50%; }
+
+.img--headshot {
+  height: 150px;
+  width: 150px; }
+
+.img--caption {
+  font-style: italic; }
+
+.author-image {
+  display: block;
+  margin-top: 4px; }
+
+.element--center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
