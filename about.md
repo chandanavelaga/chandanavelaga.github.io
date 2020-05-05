@@ -1,18 +1,17 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
 Chandana Velaga
 ======
 
-#### 'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br>Connect @ <a href="https://www.linkedin.com/in/chandana-velaga-bb17b6102/" target="_blank">linkedin</a>' with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+#### 'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br> with a strong background in math, science and programming.
 
 
 Education
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**NITK Surathkal | BTech Computer Science | 8.51/10 CGPA** (2013 - 2017)
 
 - Research on transport in metal nanostructures. 
 - Coursework in physics, engineering, and statistics.
@@ -21,19 +20,16 @@ Education
 
 - Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
 
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
 
 Experience
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Cisco Systems | Software Engineer** (Aug 2017 - May 2020)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Umbrella
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Cisco Systems | Intern** (May 2016 - Jul 2016)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- IOT Threatsense
 
 Skills
 ------
