@@ -6,24 +6,23 @@ title: About
 Chandana Velaga
 ======
 
-#### 'Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br> with a strong background in math, science and programming.
+#### Product Enthusiast<br>Ex-Cisco | NITK Surathkal<br> with a strong background in math, science and programming.
 
 
 Education
 ---------
-**NITK Surathkal | BTech Computer Science | 8.51/10 CGPA** (2013 - 2017)
-
+##### **NITK Surathkal | BTech Computer Science | 8.51/10 CGPA**        *(2013 - 2017)*
 - Research on transport in metal nanostructures. 
 - Coursework in physics, engineering, and statistics.
 
-**B.S. in Physics, Indiana University** (2008-2011)
+##### **B.S. in Physics, Indiana University**                           *(2008-2011)*
 
 - Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
 
 
 Experience
 ---------
-**Cisco Systems | Software Engineer** (Aug 2017 - May 2020)
+**Cisco Systems | Software Engineer** *(Aug 2017 - May 2020)*
 
 - Umbrella
 
